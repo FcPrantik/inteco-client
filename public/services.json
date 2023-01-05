@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "B002RL8IYK",
+        "name": "Air Condition Service",
+        "price": 99.00,
+        "description": "Services are able to service your entire electrical infrastructure from Thermal Imaging of your air condition from switch boards.",
+        "icon": "https://i.ibb.co/f4qS1Wh/img1.png"
+    },
+    {
+        "_id": "B01LZ2WZGH",
+        "name": "Electrical Installation",
+        "price": 199.00,
+        "description": "The art electrical installations that provide all the necessary electrical solutions to suit your business, home or industrial premises.",
+        "icon": "https://i.ibb.co/mJsMqSX/img2.png"
+    },
+    {
+        "_id": "B01K1IO3QW",
+        "name": "General Builder",
+        "price": 59.00,
+        "description": "We provide impeccable safety assessments to both commercial, residential properties. Our adept & knowledgeable electricians.",
+        "icon": "https://i.ibb.co/gMgqtkZ/img3.png"
+    },
+    {
+        "_id": "B01LD4MGY4",
+        "name": "Security System",
+        "price": 79.00,
+        "description": "Utilized for measuring flow, temperature level & pressure in the manufacturing industry array of technology is ensure productivity.",
+        "icon": "https://i.ibb.co/B4JM6BD/img4.png"
+    },
+    {
+        "_id": "B01M18UZF5",
+        "name": "Service & Maintenance",
+        "price": 99.00,
+        "description": "Electrical Services are able to service your entire electrical infrastructure from Thermal Imaging of your switch boards.",
+        "icon": "https://i.ibb.co/F7Tz7rV/img5.png"
+    },
+    {
+        "_id": "B01DBGVB7K",
+        "name": "House Extensions",
+        "price": 89.00,
+        "description": "Traditionally, electricity is supplied through overhead network poles, where the cable is connected to your building.",
+        "icon": "https://i.ibb.co/FJB1XVb/img6.png"
+    }
+]
