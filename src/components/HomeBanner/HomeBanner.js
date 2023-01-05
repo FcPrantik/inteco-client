@@ -14,7 +14,7 @@ const HomeBanner = () => {
                                 <h1 className="topTitle">Inteco Interior<br/> Design Agency
                                 </h1>
 
-                                <p className="home-des mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod enim tempor incididunt <br/>
+                                <p className="home-des mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod enim tempor incididunt ok <br/>
                                     ut labore et dolore magna aliqua.Ut enim ad minim, quis nostrud exercitation.
                                 </p>
                                 <Link to="/noMatch"><Button variant="primary">More Info</Button></Link>
