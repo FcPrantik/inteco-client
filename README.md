@@ -1,6 +1,5 @@
-## Tanny-Interior React-Business website
-Tanny-Interior is a dynamic security service based website, where customer have to login for ordering services online and admin can upload new service and delete old service from database. If an admin upload a new service it will saved in the database and show in home page.
-[Live Website](https://tanny-interior-19cd7.web.app/)
+## Inteco-Interior React-Business website
+Inteco-Interior is a dynamic security service based website, where customer have to login for ordering services online and admin can upload new service and delete old service from database. If an admin upload a new service it will saved in the database and show in home page.
 
 ### Features
 * Build On Latest React
